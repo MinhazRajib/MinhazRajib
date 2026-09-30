@@ -21,3 +21,4 @@ Princeton undergrad building software I'd actually want to use. Most of my work 
 #### Reach me
 
 GitHub issues are fine, or open a discussion on any repo. <!-- Add LinkedIn / email here if you want recruiters to reach you directly. -->
+https://www.linkedin.com/in/minhaz-rajib/
