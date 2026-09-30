@@ -11,7 +11,7 @@ Princeton undergrad building software I'd actually want to use. Most of my work 
 | [**repo-doctor**](https://github.com/MinhazRajib/repo-doctor) | CLI that audits a git repo for secrets, oversized objects, stale branches, and missing basics, then scores it. Works as a CI gate. | Python |
 | [**JSIP Exchange**](https://github.com/MinhazRajib/jsip-exchange) | Order book, matching engine, gateway protocol, and bots for a simplified exchange. Pair project from Jane Street's Immersion Program (JSIP). | OCaml |
 | [**DuneScape**](https://github.com/MinhazRajib/dunescape) | Pixel-art sliding puzzle with a BFS solver that proves every level is beatable in CI. | OCaml |
-
+ 
 #### How I work
 
 - Deterministic by default: injectable clocks, pure cores, expect tests that pin exact output.
