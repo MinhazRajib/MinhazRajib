@@ -12,13 +12,7 @@ Princeton undergrad building software I'd actually want to use. Most of my work 
 | [**JSIP Exchange**](https://github.com/MinhazRajib/jsip-exchange) | Order book, matching engine, gateway protocol, and bots for a simplified exchange. Pair project from Jane Street's Immersion Program (JSIP). | OCaml |
 | [**DuneScape**](https://github.com/MinhazRajib/dunescape) | Pixel-art sliding puzzle with a BFS solver that proves every level is beatable in CI. | OCaml |
  
-#### How I work
-
-- Deterministic by default: injectable clocks, pure cores, expect tests that pin exact output.
-- Every repo ships with CI, tests, a license, and a README you can follow in sixty seconds.
-- Currently interested in execution algorithms, low-latency systems, and developer tooling.
 
 #### Reach me
-
-GitHub issues are fine, or open a discussion on any repo. <!-- Add LinkedIn / email here if you want recruiters to reach you directly. -->
+ <!-- Add LinkedIn / email here if you want recruiters to reach you directly. -->
 https://www.linkedin.com/in/minhaz-rajib/ 
